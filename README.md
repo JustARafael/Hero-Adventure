@@ -1,4 +1,4 @@
 # CSC113P2
 Python
 Main page of the game:
-http://url/to/img.png
+![Main page](http://cl.ly/f8I4)
