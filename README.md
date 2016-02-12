@@ -1,4 +1,4 @@
 # CSC113P2
 Python
-
-Images are not submitted
+Main page of the game:
+![alt tag](![alt tag](http://url/to/img.png))
