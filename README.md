@@ -1,6 +1,8 @@
 # CSC113P2
 Python
 
+Icon images not avaliable
+
 ![Main](http://f.cl.ly/items/1G3H2G3q142K2o0d1q1X/menu.png)
 ![Menu](http://f.cl.ly/items/3q3Q44463b3Q2D1W2c3M/main.png)
 ![Rooms](http://f.cl.ly/items/3i0K342R1w331s0c103a/rooms.png)
