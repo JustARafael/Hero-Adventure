@@ -3,7 +3,7 @@ Python
 
 UI images not submitted
 
-Single player game using Python standard GUI package
+## Single player game using Python standard GUI package
 
 •	Implemented queues and threading to provide continuous status of synthesis procedures
 
