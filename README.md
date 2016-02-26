@@ -7,7 +7,7 @@ UI images not submitted
 
 •	Implemented queues and threading to provide continuous status of synthesis procedures
 
-•	Integrated images with button and message box
+•	Integrated images with labels, buttons, and message box
 
 •	Technologies: Python 3.5.1, Xcode, Visual Studio Code
 
