@@ -5,9 +5,11 @@ UI images not submitted
 
 ### Single player game using Python standard GUI package
 
-•	Implemented queues and threading to provide continuous status of synthesis procedures
+•	A RPG strategy game that allows you to control the character and to fight monsters
 
-•	Integrated images with labels, buttons, and message box
+•	Implemented queues and threading to provide continuous status of synthesis procedures; integrated images with labels, buttons, and message box
+
+•	Integrated images with labels, buttons, and message box using Python GUI package
 
 •	Technologies: Python 3.5.1, Xcode, Visual Studio Code
 
