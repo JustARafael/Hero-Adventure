@@ -27,3 +27,5 @@ UI images not submitted
 ![Store](http://f.cl.ly/items/3F2J2A2N160I401l1s3z/store.png)
 ### Feature
 ![Synthesis](http://f.cl.ly/items/3r1D290L3G3D0k0I413a/synthesis.png)
+
+progress bar tracks the progress of synthesising 1 potion
