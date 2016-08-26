@@ -1,4 +1,4 @@
-# CSC113P2
+# Hero-Adventure
 Python
 
 UI images not submitted
