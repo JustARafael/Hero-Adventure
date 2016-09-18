@@ -1,5 +1,4 @@
 # Hero-Adventure
-Python
 
 UI images not submitted
 
